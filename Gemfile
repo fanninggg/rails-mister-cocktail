@@ -11,7 +11,7 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
 ruby '2.4.3'
-
+gem 'figaro'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.5'
