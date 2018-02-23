@@ -17,3 +17,8 @@ Ingredient.create(name: "lemonade")
 Ingredient.create(name: "coffee")
 Ingredient.create(name: "egg")
 Ingredient.create(name: "champagne")
+
+Cocktail.create(name: "Whisky Sour")
+Cocktail.create(name: "Purple Rain")
+Cocktail.create(name: "Mojito")
+

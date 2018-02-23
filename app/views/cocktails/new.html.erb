@@ -1,1 +1,8 @@
-<h1>A Cocky Tale For You?</h1>
+<div class="new-container">
+  <div class="form">
+    <%= simple_form_for(@cocktail) do |f| %>
+    <%= f.input :name %>
+    <%= f.button :submit %>
+    <% end %>
+  </div>
+</div>

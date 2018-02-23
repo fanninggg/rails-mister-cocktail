@@ -1,0 +1,135 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 20%, rgba(0,36,61,0.6) 50%), url('https://images.unsplash.com/photo-1509157774525-cd6d6cbf00a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=248c1166a9905ca8718e9c466fa347ee&auto=format&fit=crop&w=2850&q=80');
+  color: white;
+  text-align: center;
+  height: 100vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+}
+.banner p {
+  font-size: 25px;
+  font-weight: lighter;
+  color: rgb(255, 255, 255);
+  opacity: 0.9;
+  margin-bottom: 30px;
+}
+
+/*body {
+  margin-left: 50px;
+  background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 50%, rgba(0,36,61,0.6) 80%), url('https://wallpapertag.com/wallpaper/full/a/c/4/113731-vertical-psychedelic-background-2400x1350-samsung-galaxy.jpg');
+}
+h1 {
+
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 25px;
+}
+.banner {
+  color: white;
+  text-align: center;
+  height: 100vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+}
+.banner p {
+  font-size: 25px;
+  font-weight: lighter;
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+  margin-bottom: 30px;
+}
+
+#header {
+  color: #828282;
+  padding: 50px;
+}
+.cards {
+  margin-top: 100px;
+}
+.cards .card{
+  flex: 1 1 auto;
+}
+
+.card {
+  width: 100%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  opacity: 0.8;
+  margin: 10px 10px;
+}
+
+.card:hover {
+  opacity: 1;
+}
+
+.card-category {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.card-footer {
+  background-color: rgb(200,200,200);
+  padding: 30px;
+}
+
+.avatar {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.card-desc {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.card-body-paris {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)), url(https://kitt.lewagon.com/placeholder/cities/paris);
+  align-items: center;
+  color: rgb(255,255,255);
+  background-size: cover;
+  position: relative;
+  height: 180px;
+}
+
+.card-body-brussels {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)), url(https://kitt.lewagon.com/placeholder/cities/brussels);
+  align-items: center;
+  color: rgb(255,255,255);
+  background-size: cover;
+  position: relative;
+  height: 180px;
+}
+
+.card-body-london {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)), url(https://kitt.lewagon.com/placeholder/cities/london);
+  align-items: center;
+  color: rgb(255,255,255);
+  background-size: cover;
+  position: relative;
+  height: 180px;
+}
+
+.fa-euro-sign {
+  margin-left: 10px;
+}*/
