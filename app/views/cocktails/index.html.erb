@@ -1,12 +1,15 @@
 <div class="banner">
   <div class="banner-content">
-    <h1>Cocktails</h1>
+    <h1>CockyTails</h1>
     <p>Scroll down to find new and exciting ways to get sloshed</p>
     <%= link_to new_cocktail_path do %>
     <div class="btn btn-primary btn-lg">Add a bevvie</div>
     <% end %>
   </div>
 </div>
+
+<%= cl_image_tag("bgsszlvpgausuilkbsuw",
+      width: 400, height: 300, crop: :fill) %>
 
 <div id="wrapper">
   <div class="container align-middle">
